@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060417882158",
+    "project_id": "app-salao-fiap",
+    "storage_bucket": "app-salao-fiap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060417882158:android:622ede1c65e7f51ab277bf",
+        "android_client_info": {
+          "package_name": "br.com.fiap.salaomvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxFGE0ezoeuDJ1HpRW-LKEI0S7DtrT-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
